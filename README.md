@@ -1,5 +1,5 @@
 ### Hi ❤
-👩‍💻Engenharia da Computação/📚ReactJS
+👩‍💻Engenharia da Computação/📚ReactJS & Python
 
 
 <div>
