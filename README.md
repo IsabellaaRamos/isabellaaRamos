@@ -1,5 +1,5 @@
 ### Hi ❤
-👩‍💻Software Engineering/📚ReactJS & Python
+👩‍💻Software Engineering
 
 
 <div>
